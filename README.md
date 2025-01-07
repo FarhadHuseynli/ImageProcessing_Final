@@ -1,16 +1,18 @@
-ImageProcessing_Final
-Project Overview
+# ImageProcessing_Final
+
+## Project Overview
 This project implements a deep learning image classification pipeline using TensorFlow and Keras. The goal is to build, train, and evaluate a model that classifies images into categories.
 
-Dependencies
-TensorFlow
-Keras
-scikit-learn
-Matplotlib
-NumPy
-Seaborn
-Project Structure
-plaintext
+## Dependencies
+- TensorFlow
+- Keras
+- scikit-learn
+- Matplotlib
+- NumPy
+- Seaborn
+
+## Project Structure
+```plaintext
 ProjectNumber_ImageProcessing_YourName/
 │
 ├── data/                      # Folder for dataset (e.g., CIFAR-10)
